@@ -28,7 +28,14 @@ The analysis of the election show that:
     - Charles Casper received **23.0%** of the vote and **85,213** votes.
     - Diana received **73.8%** of the vote and **272,892** votes.
     - Raymon received **3.1%** of the vote and **11,606** votes.
+
+## Challenge Overview
+
+Seth, a Colorado Board of Elections employee, requested help in completing an election audit of a recent local congressional election.
+
+The analysis provided Seth and his team with the findings of the following tasks in the first draft of the election audit:
   
+
 
 
 
