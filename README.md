@@ -9,7 +9,7 @@ A Colarado Board of Election employee has given the following tasks to complete 
   3. Calculate the totak number of votes each candidate received.
   4. Calculate the percentage of votes each candidate won.
   5. Determine the winner of the election based on popular vote.
-  
+ 
 ## Resources
 
   * Data Source: Election_Results.csv
@@ -34,6 +34,24 @@ The analysis of the election show that:
 Seth, a Colorado Board of Elections employee, requested help in completing an election audit of a recent local congressional election.
 
 The analysis provided Seth and his team with the findings of the following tasks in the first draft of the election audit:
+
+```
+  1. Calculate the total number of votes cast.
+  2. Get a complete list of candidates who received votes.
+  3. Calculate the totak mumber of votes wach candidate received.
+  4. Calculate the percentage of votes each candidate won.
+  5. Determine the winner of the election based on popular vote.
+```
+Although these outcomes were important, the election commission of Seth's team asked if he could confirm the voter turnout for each county that voted in corrsponding congressional district.
+The findings of the following tasks were added to the final election audit:
+
+```
+  1. Calculate the voter turnout for each county.
+  2. Calculate the percentage of votes each county contributed to the election.
+  3. Determine which county had the largest turnout.
+```
+
+## Challenge Summary
   
 
 
