@@ -52,7 +52,8 @@ The findings of the following tasks were added to the final election audit:
 ```
 
 ## Challenge Summary
-  
+
+![alt text] ()
 
 
 
