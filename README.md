@@ -53,7 +53,7 @@ The findings of the following tasks were added to the final election audit:
 
 ## Challenge Summary
 
-![Result](https://user-images.githubusercontent.com/73450637/98434343-bb0b5080-209c-11eb-9f2a-477e031224a0.png)@
+![Result](https://user-images.githubusercontent.com/73450637/98434343-bb0b5080-209c-11eb-9f2a-477e031224a0.png)
 
 
 
